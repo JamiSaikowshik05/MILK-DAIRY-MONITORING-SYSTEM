@@ -24,14 +24,14 @@ It Contains a Home page which has quick links to Home, Services,Gallery,About Da
 ```bash
 startpage.php is the homepage . 
 ```
-![Home Page]
+Home Page
 </br>
 ----------------------------------------------------------------------------------------------------------------------------------------
 ```bash
 The Services has different links to the above mentioned modules which 
 can be accessed from the services page.
 ```
-![services page]
+services page
 </br>
 ----------------------------------------------------------------------------------------------------------------------------------------
 ```bash
